@@ -1,0 +1,15 @@
+C:\Users\XTreme.ws\Desktop\git\Lekzii_C\Zadacha2_Max\obj\Debug\net6.0\Zadacha2_Max.csproj.AssemblyReference.cache
+C:\Users\XTreme.ws\Desktop\git\Lekzii_C\Zadacha2_Max\obj\Debug\net6.0\Zadacha2_Max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XTreme.ws\Desktop\git\Lekzii_C\Zadacha2_Max\obj\Debug\net6.0\Zadacha2_Max.AssemblyInfoInputs.cache
+C:\Users\XTreme.ws\Desktop\git\Lekzii_C\Zadacha2_Max\obj\Debug\net6.0\Zadacha2_Max.AssemblyInfo.cs
+C:\Users\XTreme.ws\Desktop\git\Lekzii_C\Zadacha2_Max\obj\Debug\net6.0\Zadacha2_Max.csproj.CoreCompileInputs.cache
+C:\Users\XTreme.ws\Desktop\git\Lekzii_C\Zadacha2_Max\bin\Debug\net6.0\Zadacha2_Max.exe
+C:\Users\XTreme.ws\Desktop\git\Lekzii_C\Zadacha2_Max\bin\Debug\net6.0\Zadacha2_Max.deps.json
+C:\Users\XTreme.ws\Desktop\git\Lekzii_C\Zadacha2_Max\bin\Debug\net6.0\Zadacha2_Max.runtimeconfig.json
+C:\Users\XTreme.ws\Desktop\git\Lekzii_C\Zadacha2_Max\bin\Debug\net6.0\Zadacha2_Max.dll
+C:\Users\XTreme.ws\Desktop\git\Lekzii_C\Zadacha2_Max\bin\Debug\net6.0\Zadacha2_Max.pdb
+C:\Users\XTreme.ws\Desktop\git\Lekzii_C\Zadacha2_Max\obj\Debug\net6.0\Zadacha2_Max.dll
+C:\Users\XTreme.ws\Desktop\git\Lekzii_C\Zadacha2_Max\obj\Debug\net6.0\refint\Zadacha2_Max.dll
+C:\Users\XTreme.ws\Desktop\git\Lekzii_C\Zadacha2_Max\obj\Debug\net6.0\Zadacha2_Max.pdb
+C:\Users\XTreme.ws\Desktop\git\Lekzii_C\Zadacha2_Max\obj\Debug\net6.0\Zadacha2_Max.genruntimeconfig.cache
+C:\Users\XTreme.ws\Desktop\git\Lekzii_C\Zadacha2_Max\obj\Debug\net6.0\ref\Zadacha2_Max.dll
