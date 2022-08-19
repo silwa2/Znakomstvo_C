@@ -1,33 +1,14 @@
-﻿int a = 4;
+﻿
+Console.Write ("Введите целое число: ");
+int number = int.Parse (Console.ReadLine());
 
-if (a % 2 == 0)
+if (number % 2 == 0)
 {
-Console.WriteLine ("Yes");
+Console.Write ("Число делится на 2: ");
+Console.Write ("Yes");
 }
 else
 {
- Console.WriteLine ("No");
-}
-
-a = -3;
-
-if (a % 2 == 0)
-{
-Console.WriteLine ("Yes");
-}
-else
-{
- Console.WriteLine ("No");
-}
-
-
-a = 7;
-
-if (a % 2 == 0)
-{
-Console.WriteLine ("Yes");
-}
-else
-{
+ Console.Write ("Число делится на 2: ");
  Console.WriteLine ("No");
 }
