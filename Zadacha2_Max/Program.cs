@@ -1,4 +1,10 @@
-﻿int a = 5, b = 7, max;
+﻿int a, b, max;
+
+Console.Write("Введите первое чило: ");
+a = int.Parse(Console.ReadLine());
+
+Console.Write("Введите второе число: ");
+b = int.Parse(Console.ReadLine());
 
 if(a > b)
 {
@@ -8,30 +14,5 @@ else
 {
     max = b;
 }
-Console.WriteLine(max);
-
- a = 2;
- b = 10;
-
-if(a > b)
-{
-    max = a;
-}
-else
-{
-    max = b;
-}
-Console.WriteLine(max);
-
- a = -9;
- b = -3;
-
-if(a > b)
-{
-    max = a;
-}
-else
-{
-    max = b;
-}
-Console.WriteLine(max);
+Console.Write("Максимальное число: ");
+Console.Write(max);
