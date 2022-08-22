@@ -19,4 +19,5 @@ else
     {
      Console.Write ("Числа равны: " + number1);   
     }
+    Console.ReadKey ();
 }
