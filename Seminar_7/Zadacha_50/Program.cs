@@ -33,8 +33,9 @@ int numberColumn = Convert.ToInt32(Console.ReadLine());
 
 if (lines < numberLines || column < numberColumn)
 {
-    Console.WriteLine("Такого элемента нет");
+    Console.WriteLine("Такой позиции в массиве нет");
 }
+else 
 Console.WriteLine(matrix[numberLines-1, numberColumn-1]);
 
 
