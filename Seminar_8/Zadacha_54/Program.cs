@@ -44,14 +44,6 @@
 //             Console.ReadKey();
 
 
-
-
-
-
-
-
-
-
 Console.WriteLine("Первоначальный массив: ");
 //int [,] matrix = new int[new Random().Next(1,10), new Random().Next(1,10)];
 int [,] matrix = new int[5,5];
